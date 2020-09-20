@@ -2,9 +2,9 @@ Website Test for UnboxIng
 
 Credits :
 -------
-=> Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used: **Unsplash** - http://unsplash.com
-=> Framework : http://getbootstrap.com
+- Design and developed: "WebThemez"  http://webthemez.com
+- Photos used: **Unsplash** - http://unsplash.com
+- Framework : http://getbootstrap.com
 
 License :
 -------
